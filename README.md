@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anton Arnaudov, 20yo Web API Dev using Python
+- 👋 Hi, I’m Anton Arnaudov, Backend Python Engeneer with deep understanding of Web, API, Backend and Frontend solutions  
 - 👀 I’m interested in Web & Cloud Technologies
 - 🌱 I’m currently learning Scrapy, AWS, Doker, Linux and deployment on a local linux web server
-- 🤝 I’m looking to collaborate on inspiring and futuristic projects in which i could help with my API development and testing knowleage.
+- 🤝 I’m looking to collaborate on inspiring and futuristic projects in which i could help with my Backend development and testing knowleage.
 - 📫 You can reach me in [Linkedin](https://www.linkedin.com/in/anton-arnaudov/)
 - 💼 I'm currently working as API Dev with Python at [Audience Platform](https://www.audienceplatform.tv/) and we are using Bitbucket which might expalin my inactivity here.
   - Find us in [Linkedin](https://www.linkedin.com/company/audience-platform/)
